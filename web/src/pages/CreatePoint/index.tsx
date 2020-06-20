@@ -268,9 +268,6 @@ const CreatePoint = () => {
         </button>
 
 
-          !!! 1:45:30 !!!
-
-
       </form>
 
     </div>
